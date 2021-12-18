@@ -1,0 +1,64 @@
+<div class="tradein-step-content">
+    <h3 class="step-heading text-center">Informasi Furniture Lama Anda</h3>
+
+
+    <form class="user-form form-horizontal">
+        <div class="row mb-3">
+            <label for="inputAge" class="col-sm-4 col-form-label text-end">Usia Produk</label>
+            <div class="col-sm-8">
+                <input type="number" class="form-control small" id="inputAge">
+            </div>
+        </div>
+
+        <div class="input-color row mb-3">
+            <label for="inputColor" class="col-sm-4 col-form-label text-end">Warna</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control small" id="inputColor">
+            </div>
+        </div>
+
+        <div class="row mb-3 measure">
+            <label class="col-sm-4 col-form-label text-end">Ukuran (cm)</label>
+    
+            <div class="col-sm-8">
+                    <div class="mb-2">
+                        <label class="sr-only" for="inputPanjang">Panjang</label>
+                        <input type="number" class="form-control" id="inputPanjang" placeholder="Panjang">
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="sr-only" for="inputLebar">Lebar</label>
+                        <input type="number" class="form-control" id="inputLebar" placeholder="Lebar">
+                    </div>
+
+                    <div class="mb-2">
+                        <label class="sr-only" for="inputTinggi">Tinggi</label>
+                        <input type="number" class="form-control" id="inputTinggi" placeholder="Tinggi">
+                    </div>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label for="inputMaterial" class="col-sm-4 col-form-label text-end">Material/Finishing</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="inputMaterial">
+            </div>
+        </div>
+
+
+        <div class="row mb-3 images-upload">
+            <label class="col-sm-4 col-form-label text-end">Upload Gambar</label>
+            <div class="col-sm-8">
+                <input type="file" multiple id="inputImages" class="file-loading" name="userImagesUpload[]">
+                <p class="help-block small">Max Image (5) - Max File size 1MB</p>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <label class="col-sm-4 col-form-label text-end">Informasi Lainnya</label>
+            <div class="col-sm-8">
+                <textarea class="form-control" rows="3"></textarea>
+            </div>
+        </div>
+    </form>
+</div>

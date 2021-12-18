@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <sofa>
+        <name>Jobi Armchair</name>
+        <id>sofa01</id>
+        <img>jobi_armchair.jpg</img>
+        <material>
+            <frame>Kayu Eucalyptus</frame>
+            <cushion>foam</cushion>
+            <coating>polyester</coating>
+            <leg>Solid Wood</leg>
+        </material>
+        <color>
+            <coloritem>custard</coloritem>
+            <coloritem>paradise</coloritem>
+            <coloritem>brownies</coloritem>
+        </color>
+        <price>2299000</price>
+        <discprice>2069100</discprice>
+    </sofa>
+    <sofa>
+        <name>Toril Wingchair</name>
+        <id>sofa02</id>
+        <img>toril_wingchair.jpg</img>
+        <material>
+            <frame>Kayu Solid</frame>
+            <cushion>Indoor Foam</cushion>
+            <coating>Indoor Fabric</coating>
+            <leg>Kayu Solid</leg>
+        </material>
+        <color>
+            <coloritem>aqua</coloritem>
+            <coloritem>wood</coloritem>
+            <coloritem>red</coloritem>
+            <coloritem>black</coloritem>
+        </color>
+        <price>2499000</price>
+        <discprice>2249100</discprice>
+    </sofa>
+    <sofa>
+        <name>Wina Armchair</name>
+        <id>sofa03</id>
+        <img>wina_armchair.jpg</img>
+        <material>
+            <frame>Plywood</frame>
+            <cushion>Foam</cushion>
+            <coating>Fabric</coating>
+            <leg>Kayu Mindi Solid</leg>
+        </material>
+        <color>
+            <coloritem>blue</coloritem>
+            <coloritem>olive</coloritem>
+        </color>
+        <price>2499000</price>
+        <discprice>2249100</discprice>
+    </sofa>
+    <sofa>
+        <name>Shackleton Armchair</name>
+        <id>sofa04</id>
+        <img>shackleton_armchair.jpg</img>
+        <material>
+            <frame>Kayu Solid</frame>
+            <cushion>Foam</cushion>
+            <coating>Fabric</coating>
+            <leg>Kayu Mindi Solid</leg>
+        </material>
+        <color>
+            <coloritem>custard</coloritem>
+            <coloritem>paradise</coloritem>
+            <coloritem>brownies</coloritem>
+        </color>
+        <price>2999000</price>
+        <discprice>2699100</discprice>
+    </sofa>
+    <sofa>
+        <name>Zoey Armchair</name>
+        <id>sofa05</id>
+        <img>zoey_armchair.jpg</img>
+        <material>
+            <frame>Kayu Eucalyptus</frame>
+            <cushion>Foam</cushion>
+            <coating>Polyester</coating>
+            <leg>Solid Wood</leg>
+        </material>
+        <color>
+            <coloritem>grey</coloritem>
+        </color>
+        <price>2499000</price>
+        <discprice>2249100</discprice>
+    </sofa>
+    <sofa>
+        <name>Elis Armchair</name>
+        <id>sofa06</id>
+        <img>elis_armchair.jpg</img>
+        <material>
+            <frame>Kayu Solid</frame>
+            <cushion>Indoor Foam</cushion>
+            <coating>Indoor Fabric</coating>
+            <leg>Besi Hollow</leg>
+        </material>
+        <color>
+            <coloritem>custard</coloritem>
+            <coloritem>gail</coloritem>
+            <coloritem>rouge</coloritem>
+        </color>
+        <price>2999000</price>
+        <discprice>2699100</discprice>
+    </sofa>
+    <sofa>
+        <name>Taby Armchair</name>
+        <id>sofa07</id>
+        <img>taby_armchair.jpg</img>
+        <material>
+            <frame>Kayu Solid</frame>
+            <cushion>Indoor Foam</cushion>
+            <coating>Indoor Fabric</coating>
+            <leg>Kayu Solid</leg>
+        </material>
+        <color>
+            <coloritem>custard</coloritem>
+            <coloritem>gail</coloritem>
+            <coloritem>brownies</coloritem>
+        </color>
+        <price>1999000</price>
+        <discprice>1799100</discprice>
+    </sofa>
+    <sofa>
+        <name>Trois Armchair</name>
+        <id>sofa08</id>
+        <img>trois_armchair.jpg</img>
+        <material>
+            <frame>Kayu Solid</frame>
+            <cushion>Indoor Foam</cushion>
+            <coating>Indoor Fabric</coating>
+            <leg>Kayu Solid</leg>
+        </material>
+        <color>
+            <coloritem>blue</coloritem>
+            <coloritem>rouge</coloritem>
+            <coloritem>olive</coloritem>
+        </color>
+        <price>2799000</price>
+        <discprice>2519100</discprice>
+    </sofa>
+</products>
