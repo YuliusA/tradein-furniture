@@ -169,7 +169,7 @@ jQuery(document).ready(function($){
             var catVal = catItem.data('category');
 
             //since a category has been selected/deselected, you need to update the product list
-            self.loadProducts(catItem, catVal);
+//             self.loadProducts(catItem, catVal);
         }
     }
 
@@ -182,7 +182,7 @@ jQuery(document).ready(function($){
         }
 
         if(product.parents('[data-selection="product"]').length > 0) {
-            self.loadSingleProduct(product);
+//             self.loadSingleProduct(product);
         }
     }
 
